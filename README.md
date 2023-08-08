@@ -2,5 +2,6 @@ This project is aimed to re-calculate the stellar radius of planet-host stars in
 
 To run these code, please:
 1. Download the homogenous catalog from zenodo (https://zenodo.org/record/7692681) and put the files at ./params
-2. Collect TESS data and put it into a file (with ra, dec and all info that you feel interested)
-3. ...
+2. Collect TESS data and put it into a file (with ra, dec and all info that you feel interested, please DO NOT comment out the title, e.g. ra, dec, ...)
+3. TODO: compare the matched teff, feh, logg with literature values. Heteroscedasticity is expected.
+4. ...
